@@ -895,3 +895,858 @@ content:
         - name: Evidently AI
           description: 开源的机器学习模型监测和测试工具
           url: https://www.evidentlyai.com
+    - name: AI写作工具
+      sites:
+        - name: Jasper
+          description: AI文字内容创作工具
+          url: https://www.jasper.ai
+        - name: Copy.ai
+          description: 人工智能营销文案和内容创作工具
+          url: https://www.copy.ai
+        - name: Writesonic
+          description: AI写作，文案，释义工具
+          url: https://writesonic.com
+        - name: Rytr
+          description: AI内容生成和写作助手
+          url: https://rytr.me
+        - name: Notion AI
+          description: Notion旗下的AI内容创作助手
+          url: https://www.notion.so/product/ai
+        - name: Grammarly
+          description: AI语法检查写作助手
+          url: https://www.grammarly.com
+        - name: QuillBot
+          description: AI写作润色工具
+          url: https://quillbot.com
+        - name: DeepL Write
+          description: DeepL推出的AI驱动的写作助手
+          url: https://www.deepl.com/write
+        - name: ContentBot
+          description: AI快速写作工具
+          url: https://contentbot.ai
+        - name: Copysmith
+          description: 企业级和电商文案生成
+          url: https://copysmith.ai
+        - name: Magic Write
+          description: Canva旗下AI文案生成器
+          url: https://www.canva.com/magic-write
+        - name: Peppertype.ai
+          description: 高质量AI内容生成
+          url: https://www.peppertype.ai
+        - name: Spell.tools
+          description: 高颜值AI内容营销创作工具
+          url: https://spell.tools
+        - name: Reword
+          description: AI文章写作
+          url: https://reword.co
+        - name: HyperWrite
+          description: AI写作助手帮助你创作内容更自信
+          url: https://hyperwriteai.com
+        - name: Typeface
+          description: AI创意内容创作助手
+          url: https://www.typeface.ai
+        - name: 爱改写
+          description: AI写作和改写润色辅助工具
+          url: https://www.aigaixie.com
+        - name: 悉语
+          description: 阿里旗下智能文案工具，一键生成电商营销文案
+          url: https://chuangyi.taobao.com/pages/aiCopy
+        - name: Effidit
+          description: 腾讯AI Lab开发的智能创作助手
+          url: https://effidit.qq.com
+        - name: 秘塔写作猫
+          description: AI写作，文章自成
+          url: https://xiezuocat.com
+        - name: 火龙果写作
+          description: AI驱动的文字生产力工具
+          url: https://www.mypitaya.com
+        - name: HeyFriday
+          description: 国内团队推出的智能AI写作工具
+          url: https://www.heyfriday.cn/home
+        - name: WPS智能写作
+          description: WPS旗下在线智能写作工具
+          url: https://aiwrite.wps.cn
+        - name: 易撰
+          description: 新媒体AI内容创作助手
+          url: https://www.yizhuan5.com
+        - name: 智搜
+          description: Giiso写作机器人，内容创作AI辅助工具
+          url: https://www.giiso.com
+        - name: Texta
+          description: AI博客和文章一键生成
+          url: https://texta.ai
+        - name: Anyword
+          description: AI文案写作助手和文本生成器
+          url: https://anyword.com
+        - name: Hypotenuse AI
+          description: 人工智能写作助手和文本生成器
+          url: https://zh.hypotenuse.ai
+        - name: LongShot
+          description: AI长文章写作工具
+          url: https://www.longshot.ai
+        - name: Jounce
+          description: 无限制免费AI文案写作
+          url: https://www.jounce.ai
+        - name: AISEO
+          description: AI创作SEO优化友好的文案和文章
+          url: https://aiseo.ai/index.html
+        - name: Writer
+          description: 企业级AI内容创作工具
+          url: https://writer.com
+        - name: SurferSEO
+          description: AI SEO大纲和内容优化写作工具
+          url: https://surferseo.com
+        - name: ProWritingAid
+          description: AI写作助手软件
+          url: https://prowritingaid.com
+        - name: WordTune
+          description: 你的个人写作助手和编辑
+          url: https://www.wordtune.com
+        - name: Yaara
+          description: 释放你的写作潜力
+          url: https://yaara.ai
+        - name: Frase
+          description: AI SEO内容优化和写作工具
+          url: https://www.frase.io
+        - name: NeuralText
+          description: AI SEO写作助手
+          url: https://www.neuraltext.com
+        - name: Copymatic
+          description: AI文案写作助手
+          url: https://copymatic.ai
+        - name: TextCortex
+          description: AI写作能手
+          url: https://textcortex.com
+        - name: INK
+          description: AI内容营销和SEO助手
+          url: https://inkforall.com
+        - name: Content at Scale
+          description: AI SEO长内容创作
+          url: https://contentatscale.ai
+    - name: 常用AI图像工具
+      sites:
+        - name: Stable Diffusion
+          description: Stability AI推出的文本到图像生成AI模型
+          url: http://beta.dreamstudio.ai
+        - name: GPT-4
+          description: OpenAI旗下最新的GPT-4模型
+          url: https://openai.com/product/gpt-4
+        - name: DALL·E 2
+          description: OpenAI旗下DALL·E 2模型
+          url: https://openai.com/product/dall-e-2
+        - name: Codex
+          description: OpenAI旗下AI代码生成训练模型
+          url: https://openai.com/blog/openai-codex
+        - name: BLOOM
+          description: HuggingFace推出的大型语言模型（LLM）
+          url: https://huggingface.co/docs/transformers/model_doc/bloom
+        - name: Imagen
+          description: Google AI文字到图像生成模型
+          url: https://imagen.research.google
+        - name: LLaMA
+          description: Meta（Facebook）推出的AI大语言模型
+          url: https://github.com/facebookresearch/llama
+        - name: Lobe
+          description: 简单免费的机器学习模型训练工具
+          url: https://www.lobe.ai
+        - name: Scale AI
+          description: AI机器学习标注训练平台
+          url: https://scale.com
+        - name: Replicate
+          description: 在线运行开源机器学习模型
+          url: https://replicate.com
+        - name: Evidently AI
+          description: 开源的机器学习模型监测和测试工具
+          url: https://www.evidentlyai.com
+    - name: AI图片插画生成
+      sites:
+        - name: Stable Diffusion
+          description: Stability AI推出的文本到图像生成AI模型
+          url: http://beta.dreamstudio.ai
+        - name: GPT-4
+          description: OpenAI旗下最新的GPT-4模型
+          url: https://openai.com/product/gpt-4
+        - name: DALL·E 2
+          description: OpenAI旗下DALL·E 2模型
+          url: https://openai.com/product/dall-e-2
+        - name: Codex
+          description: OpenAI旗下AI代码生成训练模型
+          url: https://openai.com/blog/openai-codex
+        - name: BLOOM
+          description: HuggingFace推出的大型语言模型（LLM）
+          url: https://huggingface.co/docs/transformers/model_doc/bloom
+        - name: Imagen
+          description: Google AI文字到图像生成模型
+          url: https://imagen.research.google
+        - name: LLaMA
+          description: Meta（Facebook）推出的AI大语言模型
+          url: https://github.com/facebookresearch/llama
+        - name: Lobe
+          description: 简单免费的机器学习模型训练工具
+          url: https://www.lobe.ai
+        - name: Scale AI
+          description: AI机器学习标注训练平台
+          url: https://scale.com
+        - name: Replicate
+          description: 在线运行开源机器学习模型
+          url: https://replicate.com
+        - name: Evidently AI
+          description: 开源的机器学习模型监测和测试工具
+          url: https://www.evidentlyai.com
+    - name: AI图片背景移除
+      sites:
+        - name: Stable Diffusion
+          description: Stability AI推出的文本到图像生成AI模型
+          url: http://beta.dreamstudio.ai
+        - name: GPT-4
+          description: OpenAI旗下最新的GPT-4模型
+          url: https://openai.com/product/gpt-4
+        - name: DALL·E 2
+          description: OpenAI旗下DALL·E 2模型
+          url: https://openai.com/product/dall-e-2
+        - name: Codex
+          description: OpenAI旗下AI代码生成训练模型
+          url: https://openai.com/blog/openai-codex
+        - name: BLOOM
+          description: HuggingFace推出的大型语言模型（LLM）
+          url: https://huggingface.co/docs/transformers/model_doc/bloom
+        - name: Imagen
+          description: Google AI文字到图像生成模型
+          url: https://imagen.research.google
+        - name: LLaMA
+          description: Meta（Facebook）推出的AI大语言模型
+          url: https://github.com/facebookresearch/llama
+        - name: Lobe
+          description: 简单免费的机器学习模型训练工具
+          url: https://www.lobe.ai
+        - name: Scale AI
+          description: AI机器学习标注训练平台
+          url: https://scale.com
+        - name: Replicate
+          description: 在线运行开源机器学习模型
+          url: https://replicate.com
+        - name: Evidently AI
+          description: 开源的机器学习模型监测和测试工具
+          url: https://www.evidentlyai.com
+    - name: AI图片无损调整
+      sites:
+        - name: Stable Diffusion
+          description: Stability AI推出的文本到图像生成AI模型
+          url: http://beta.dreamstudio.ai
+        - name: GPT-4
+          description: OpenAI旗下最新的GPT-4模型
+          url: https://openai.com/product/gpt-4
+        - name: DALL·E 2
+          description: OpenAI旗下DALL·E 2模型
+          url: https://openai.com/product/dall-e-2
+        - name: Codex
+          description: OpenAI旗下AI代码生成训练模型
+          url: https://openai.com/blog/openai-codex
+        - name: BLOOM
+          description: HuggingFace推出的大型语言模型（LLM）
+          url: https://huggingface.co/docs/transformers/model_doc/bloom
+        - name: Imagen
+          description: Google AI文字到图像生成模型
+          url: https://imagen.research.google
+        - name: LLaMA
+          description: Meta（Facebook）推出的AI大语言模型
+          url: https://github.com/facebookresearch/llama
+        - name: Lobe
+          description: 简单免费的机器学习模型训练工具
+          url: https://www.lobe.ai
+        - name: Scale AI
+          description: AI机器学习标注训练平台
+          url: https://scale.com
+        - name: Replicate
+          description: 在线运行开源机器学习模型
+          url: https://replicate.com
+        - name: Evidently AI
+          description: 开源的机器学习模型监测和测试工具
+          url: https://www.evidentlyai.com
+    - name: AI图片优化修复
+      sites:
+        - name: Stable Diffusion
+          description: Stability AI推出的文本到图像生成AI模型
+          url: http://beta.dreamstudio.ai
+        - name: GPT-4
+          description: OpenAI旗下最新的GPT-4模型
+          url: https://openai.com/product/gpt-4
+        - name: DALL·E 2
+          description: OpenAI旗下DALL·E 2模型
+          url: https://openai.com/product/dall-e-2
+        - name: Codex
+          description: OpenAI旗下AI代码生成训练模型
+          url: https://openai.com/blog/openai-codex
+        - name: BLOOM
+          description: HuggingFace推出的大型语言模型（LLM）
+          url: https://huggingface.co/docs/transformers/model_doc/bloom
+        - name: Imagen
+          description: Google AI文字到图像生成模型
+          url: https://imagen.research.google
+        - name: LLaMA
+          description: Meta（Facebook）推出的AI大语言模型
+          url: https://github.com/facebookresearch/llama
+        - name: Lobe
+          description: 简单免费的机器学习模型训练工具
+          url: https://www.lobe.ai
+        - name: Scale AI
+          description: AI机器学习标注训练平台
+          url: https://scale.com
+        - name: Replicate
+          description: 在线运行开源机器学习模型
+          url: https://replicate.com
+        - name: Evidently AI
+          description: 开源的机器学习模型监测和测试工具
+          url: https://www.evidentlyai.com
+    - name: AI图片物体抹除
+      sites:
+        - name: Stable Diffusion
+          description: Stability AI推出的文本到图像生成AI模型
+          url: http://beta.dreamstudio.ai
+        - name: GPT-4
+          description: OpenAI旗下最新的GPT-4模型
+          url: https://openai.com/product/gpt-4
+        - name: DALL·E 2
+          description: OpenAI旗下DALL·E 2模型
+          url: https://openai.com/product/dall-e-2
+        - name: Codex
+          description: OpenAI旗下AI代码生成训练模型
+          url: https://openai.com/blog/openai-codex
+        - name: BLOOM
+          description: HuggingFace推出的大型语言模型（LLM）
+          url: https://huggingface.co/docs/transformers/model_doc/bloom
+        - name: Imagen
+          description: Google AI文字到图像生成模型
+          url: https://imagen.research.google
+        - name: LLaMA
+          description: Meta（Facebook）推出的AI大语言模型
+          url: https://github.com/facebookresearch/llama
+        - name: Lobe
+          description: 简单免费的机器学习模型训练工具
+          url: https://www.lobe.ai
+        - name: Scale AI
+          description: AI机器学习标注训练平台
+          url: https://scale.com
+        - name: Replicate
+          description: 在线运行开源机器学习模型
+          url: https://replicate.com
+        - name: Evidently AI
+          description: 开源的机器学习模型监测和测试工具
+          url: https://www.evidentlyai.com
+    - name: AI音频工具
+      sites:
+        - name: 网易天音
+          description: 网易推出的AI音乐创作平台
+          url: https://tianyin.163.com
+        - name: Riffusion
+          description: AI生成不同风格的音乐
+          url: https://www.riffusion.com
+        - name: 讯飞智作
+          description: 科大讯飞推出的AI转语音和配音工具
+          url: https://peiyin.xunfei.cn
+        - name: Resemble.ai
+          description: AI人声生成工具
+          url: https://www.resemble.ai
+        - name: IBM Watson文字转语音
+          description: IBM Watson文字转语音
+          url: https://www.ibm.com/cloud/watson-text-to-speech
+        - name: FakeYou
+          description: Deep Fake文本转语音
+          url: https://fakeyou.com
+        - name: AssemblyAI
+          description: 转录和理解语音的AI模型
+          url: https://www.assemblyai.com
+        - name: Mubert
+          description: AI BGM背景音乐生成工具
+          url: https://mubert.com
+        - name: Audo Studio
+          description: AI音频清洗工具（噪音消除、声音平衡、音量调节）
+          url: https://audo.ai
+        - name: NaturalReader
+          description: AI文本转语音工具
+          url: https://www.naturalreaders.com
+        - name: LALAL.AI
+          description: AI人声乐器分离和提取
+          url: https://www.lalal.ai
+        - name: Krisp
+          description: AI噪音消除工具
+          url: https://krisp.ai
+        - name: Play.ht
+          description: 超真实在线AI语音生成
+          url: https://play.ht
+        - name: Murf AI
+          description: AI文本转语音生成工具
+          url: https://murf.ai
+        - name: Lemonaid
+          description: AI音乐生成工具
+          url: https://lemonaid.ai
+        - name: Soundraw
+          description: AI音乐生成工具
+          url: https://soundraw.io
+        - name: Boomy
+          description: AI音乐生成工具
+          url: https://boomy.com
+        - name: LOVO AI
+          description: AI人声和文本转语音生成工具
+          url: https://lovo.ai
+        - name: Typecast
+          description: 在线AI文字转语音生成工具
+          url: https://typecast.ai
+        - name: Veed AI Voice Generator
+          description: Veed推出的AI语音生成器
+          url: https://www.veed.io/tools/text-to-speech-video/ai-voice-generator
+        - name: Clipchamp AI旁白生成器
+          description: Clipchamp的文字转语音生成器
+          url: https://clipchamp.com/zh-hans/features/ai-voice-over-generator
+        - name: MetaVoice
+          description: AI实时变声工具
+          url: https://themetavoice.xyz
+        - name: Speechify
+          description: 超2000万人都在用的文字转语音朗读器
+          url: https://speechify.com/zh-hans
+        - name: Voicemaker
+          description: AI文本到语音生成工具
+          url: https://voicemaker.in
+        - name: Voice.ai
+          description: 实时AI变声工具
+          url: https://voice.ai
+        - name: Listnr
+          description: AI文本到语音生成器
+          url: https://www.listnr.tech
+        - name: Voicemod
+          description: AI变声工具
+          url: https://www.voicemod.net/ai-voices
+        - name: WellSaid Labs
+          description: AI文本转语音工具
+          url: https://wellsaidlabs.com
+    - name: AI视频工具
+      sites:
+        - name: Runway
+          description: 最强AI视频工具，绿幕抠除、视频生成、动态捕捉等
+          url: https://runwayml.com/green-screen
+        - name: Unscreen
+          description: AI智能视频背景移除工具
+          url: https://www.unscreen.com
+        - name: Lumen5
+          description: AI将博客文章转换成视频
+          url: https://lumen5.com
+        - name: DeepBrain
+          description: AI视频生成工具
+          url: https://www.deepbrain.io
+        - name: DreamFace
+          description: 让图片动起来的AI工具
+          url: https://dreamfaceapp.com
+        - name: 腾讯智影
+          description: 腾讯推出的在线智能视频创作平台
+          url: https://zenvideo.qq.com
+        - name: Fliki
+          description: AI文字转视频并配音
+          url: https://fliki.ai
+        - name: Synthesia
+          description: AI视频生成平台
+          url: https://www.synthesia.io
+        - name: Rephrase.ai
+          description: AI文字到视频生成
+          url: https://www.rephrase.ai
+        - name: Synthesys
+          description: AI虚拟人出镜讲解
+          url: https://synthesys.io
+        - name: Veed Video Background Remover
+          description: Veed推出的AI视频背景移除工具
+          url: https://www.veed.io/zh-CN/tools/video-background-remover
+        - name: Hour One
+          description: 人工智能文字到视频生成
+          url: https://hourone.ai
+        - name: BgRem
+          description: 无水印AI视频背景移除
+          url: https://bgrem.deelvin.com/zh/remove_video_bg/?params=start
+        - name: Colourlab.ai
+          description: 好莱坞也在用的AI视频颜色分级工具
+          url: https://colourlab.ai
+        - name: Cutout.Pro
+          description: AI一键视频背景移除
+          url: https://www.cutout.pro/zh-CN/remove-video-background
+        - name: Colossyan
+          description: AI虚拟人出镜视频生成
+          url: https://www.colossyan.com
+        - name: AVCLabs
+          description: AI自动移除视频背景
+          url: https://app.avclabs.com/#
+        - name: Movio
+          description: AI真人出镜视频讲解
+          url: https://www.movio.la
+        - name: Elai.io
+          description: AI文本到视频生成工具
+          url: https://elai.io
+        - name: Pictory
+          description: AI视频制作工具
+          url: https://pictory.ai
+        - name: SteveAI
+          description: Animaker旗下AI在线视频制作工具
+          url: https://www.steve.ai
+    - name: AI设计工具
+      sites:
+        - name: Poly
+          description: AI生成3D材质
+          url: https://withpoly.com/browse/textures
+        - name: Looka
+          description: AI在线设计和生成logo
+          url: https://looka.com
+        - name: Designs.ai
+          description: AI设计工具
+          url: https://designs.ai
+        - name: illostrationAI
+          description: AI插画生成，low poly、3D、矢量、logo、像素风、皮克斯等风格
+          url: https://www.illostration.com
+        - name: Illustroke
+          description: AI SVG矢量插画生成工具
+          url: https://illustroke.com
+        - name: Eva Design System
+          description: 基于深度学习的色彩生成工具
+          url: https://colors.eva.design
+        - name: Color Wheel
+          description: AI灰度logo或插画上色工具
+          url: https://brandmark.io/color-wheel
+        - name: Huemint
+          description: AI调色生成工具
+          url: https://huemint.com
+        - name: ColorMagic
+          description: AI调色板生成工具
+          url: https://www.obviously.ai
+        - name: Logomaster.ai
+          description: AI Logo生成工具
+          url: https://logomaster.ai
+        - name: Galileo AI
+          description: AI高保真原型设计
+          url: https://www.usegalileo.ai
+        - name: Magician
+          description: Figma插件，AI生成图标、图片和UX文案
+          url: https://magician.design
+        - name: Uizard
+          description: AI网页、App和UI设计
+          url: https://uizard.io
+        - name: Appicons AI
+          description: AI生成精美App图标
+          url: https://appicons.ai
+        - name: IconifyAI
+          description: AI App图标生成器
+          url: https://www.iconifyai.com
+        - name: Khroma
+          description: AI调色盘生成工具
+          url: https://www.khroma.co
+    - name: AI编程工具
+      sites:
+        - name: GitHub Copilot
+          description: GitHub AI编程工具
+          url: https://github.com/features/copilot
+        - name: Codeium
+          description: AI代码生成和补全
+          url: https://www.codeium.com
+        - name: Tabnine
+          description: AI代码自动补全编程助手
+          url: https://www.tabnine.com
+        - name: CodiumAI
+          description: AI代码测试工具
+          url: https://www.codium.ai
+        - name: Codiga
+          description: AI代码实时分析
+          url: https://www.codiga.io
+        - name: AirOps
+          description: AI SQL语句生成和修改
+          url: https://www.airops.com
+        - name: MarsX
+          description: AI无代码软件开发
+          url: https://www.marsx.dev
+        - name: Warp
+          description: 21世纪的终端工具（内置AI命令搜索）
+          url: https://www.warp.dev
+        - name: Fig
+          description: 下一代命令行工具（内置AI终端命令自动补全）
+          url: https://fig.io
+        - name: CodeSnippets
+          description: AI代码生成、补全、分析、重构和调试
+          url: https://codesnippets.ai
+        - name: HTTPie AI
+          description: AI API开发工具
+          url: https://httpie.io/ai
+        - name: AI Code Reviewer
+          description: AI代码检查
+          url: https://ai-code-reviewer.com
+        - name: Visual Studio IntelliCode
+          description: Visual Studio AI辅助开发
+          url: https://visualstudio.microsoft.com/zh-hans/services/intellicode
+        - name: HeyCLI
+          description: 自然语言转义为CLI命令
+          url: https://www.heycli.com
+    - name: AI对话聊天
+      sites:
+        - name: ChatGPT
+          description: OpenAI旗下AI对话工具
+          url: https://chat.openai.com
+        - name: Bing新必应
+          description: 微软推出的新版结合了ChatGPT功能的必应
+          url: https://www.bing.com
+        - name: 文心一言
+          description: 百度推出的基于文心大模型的AI对话互动工具
+          url: https://yiyan.baidu.com
+        - name: Google Bard
+          description: Google推出的AI聊天对话机器人Bard
+          url: https://bard.google.com
+        - name: Claude
+          description: Anthropic推出的类ChatGPT生成式对话机器人
+          url: https://www.anthropic.com/earlyaccess
+        - name: Poe
+          description: 问答社区Quora推出的问答机器人工具
+          url: https://poe.com
+        - name: Character.AI
+          description: 创建虚拟角色并与其对话
+          url: https://character.ai
+        - name: Jasper Chat
+          description: Jasper针对内容创作者出品的AI聊天工具
+          url: https://www.jasper.ai/chat
+        - name: YouChat
+          description: AI搜索对话工具
+          url: https://you.com/chat
+        - name: ChatSonic
+          description: WriteSonic出品的ChatGPT竞品
+          url: https://writesonic.com/chat
+        - name: Replika
+          description: AI对话陪伴工具
+          url: https://replika.com
+        - name: Whispr
+          description: 免费AI对话回应
+          url: https://whispr.chat
+    - name: AI办公工具
+      sites:
+        - name: Decktopus AI
+          description: 高质量AI演示文稿生成工具
+          url: https://www.decktopus.com
+        - name: PandaGPT
+          description: AI文档要点总结工具
+          url: https://www.pandagpt.io
+        - name: Tome
+          description: AI创作叙事性幻灯片
+          url: https://tome.app
+        - name: ChatBA
+          description: AI幻灯片生成工具
+          url: https://www.chatba.com
+        - name: Whimsical
+          description: Whimsical推出的AI思维导图工具
+          url: https://whimsical.com/ai-mind-maps
+        - name: Powerpresent AI
+          description: AI创建精美的演示稿
+          url: https://present.yaara.ai
+        - name: beautiful.ai
+          description: AI创建展示幻灯片
+          url: https://www.beautiful.ai
+        - name: 酷表ChatExcel
+          description: 北大团队开发的通过聊天来操作Excel表格的AI工具
+          url: https://chatexcel.com
+        - name: Presentations.AI
+          description: 演示文档版的ChatGPT
+          url: https://www.presentations.ai
+        - name: 飞书妙记
+          description: 飞书智能会议纪要和快捷语音识别转文字
+          url: https://www.feishu.cn/product/minutes
+        - name: 讯飞听见
+          description: 科大讯飞推出的AI智能会议系统，实时字幕、实时翻译、自动生成会议记录
+          url: https://meeting.iflyrec.com
+        - name: Ajelix
+          description: 处理Excel和Google Sheets表格的AI工具
+          url: https://ajelix.com
+        - name: Sheet+
+          description: Excel和Google Sheets表格AI处理工具
+          url: https://sheetplus.ai
+        - name: ExcelFormulaBot
+          description: AI将指令转换成Excel的函数公式
+          url: https://excelformulabot.com
+        - name: Timely
+          description: AI时间管理跟踪软件
+          url: https://timelyapp.com
+        - name: Fireflies.ai
+          description: AI会议转录和会议纪要生成工具
+          url: https://fireflies.ai
+        - name: Otter.ai
+          description: AI会议内容生成和实时转录
+          url: https://otter.ai
+        - name: Taskade
+          description: 高颜值AI大纲和思维导图生成
+          url: https://www.taskade.com
+        - name: FormX.ai
+          description: AI自动从表格和文档中提取数据
+          url: https://www.formx.ai
+        - name: Rossum.ai
+          description: 现代化的AI文档处理工具
+          url: https://rossum.ai
+    - name: AI内容检测
+      sites:
+        - name: CheckforAI
+          description: 免费在线检测AI内容
+          url: https://checkforai.com
+        - name: StudyCorgi ChatGPT Detector
+          description: StudyCorgi推出的帮助学生检测ChatGPT的工具
+          url: https://studycorgi.com/free-writing-tools/chat-gpt-detector
+        - name: AISEO AI Content Detector
+          description: AISEO推出的AI内容检测器
+          url: https://aiseo.ai/tools/ai-content-detector.html
+        - name: Writecream AI Content Detector
+          description: Writecream推出的AI内容检测工具
+          url: https://www.writecream.com/ai-content-detector
+        - name: Smodin AI Content Detector
+          description: 多语种AI内容检测工具
+          url: https://smodin.io/ai-content-detector
+        - name: Sapling AI Content Detector
+          description: Sapling.ai推出的免费在线AI内容检测工具
+          url: https://sapling.ai/utilities/ai-content-detector
+        - name: GPTZero
+          description: 超过百万人都在用的AI内容检测工具
+          url: https://gptzero.me
+        - name: GPT Detector
+          description: 在线检查文本是否由GPT-3或ChatGPT生成
+          url: https://x.writefull.com/gpt-detector
+        - name: AI Content Detector
+          description: Writer推出的AI内容检测工具
+          url: https://writer.com/ai-content-detector
+        - name: Originality.AI
+          description: 原创度和AI内容检测
+          url: https://originality.ai
+        - name: CopyLeaks
+          description: AI内容检测和分级
+          url: https://copyleaks.com
+        - name: Winston AI
+          description: 强大的AI内容检测解决方案
+          url: https://gowinston.ai
+    - name: AI提示指令
+      sites:
+        - name: FlowGPT
+          description: ChatGPT指令大全
+          url: https://flowgpt.com
+        - name: Stable Diffusion Prompt Book
+          description: OpenArt推出的针对Stable Diffusion指令的手册
+          url: https://openart.ai/promptbook
+        - name: PromptHero
+          description: 发现Stable Diffusion、ChatGPT和Midjourney的提示用语
+          url: https://prompthero.com
+        - name: ClickPrompt
+          description: 专为 Prompt 编写者设计的工具
+          url: https://www.clickprompt.org/zh-CN
+        - name: PublicPrompts
+          description: 免费高质量的Prompts集合
+          url: https://publicprompts.art
+        - name: AIPRM
+          description: 主要针对于SEO和SaaS文案写作的ChatGPT Prompts浏览器扩展
+          url: https://www.aiprm.com
+        - name: MJ Prompt Tool
+          description: MidJourney Prompt帮助工具
+          url: https://prompt.noonshot.com
+        - name: Visual Prompt Builder
+          description: 可视化AI提示语选择和搭建
+          url: https://tools.saxifrage.xyz/prompt
+        - name: ChatGPT Prompt Genius
+          description: 免费开源的ChatGPT Prompt浏览器扩展
+          url: https://github.com/benf2004/ChatGPT-Prompt-Genius
+        - name: PromptBase
+          description: AI Prompts集合市场
+          url: https://promptbase.com
+        - name: PromptVine
+          description: ChatGPT Prompts和应用
+          url: https://promptvine.com
+        - name: Awesome ChatGPT Prompts
+          description: ChatGPT Prompts集合
+          url: https://prompts.chat
+        - name: Learning Prompt
+          description: 免费的 Prompt Engineering 教程（中文开源）
+          url: https://learningprompt.wiki
+    - name: AI学习网站
+      sites:
+        - name: Coursera
+          description: 学习机器学习、深度学习和人工智能
+          url: https://www.coursera.org/collections/best-machine-learning-ai
+        - name: Kaggle
+          description: 机器学习和数据科学社区
+          url: https://www.kaggle.com
+        - name: Elements of AI
+          description: 免费在线AI通识学习
+          url: https://www.elementsofai.com
+        - name: DeepLearning.AI
+          description: 深度学习和人工智能学习平台
+          url: https://www.deeplearning.ai
+        - name: 动手学深度学习
+          description: 动手学深度学习的教材和课程
+          url: https://zh.d2l.ai
+        - name: MachineLearningMastery
+          description: 免费在线学习机器学习，从基础到高级
+          url: https://machinelearningmastery.com/start-here
+        - name: 神经网络入门
+          description: Brilliant推出的Introduction to Neural Networks课程
+          url: https://brilliant.org/courses/intro-neural-networks
+        - name: Google AI
+          description: Google AI学习平台
+          url: https://ai.google
+        - name: HuggingFace
+          description: AI开发社区
+          url: https://huggingface.co
+        - name: 飞桨AI Studio
+          description: 人工智能学习实训社区
+          url: https://aistudio.baidu.com
+    - name: AI开发框架
+      sites:
+        - name: TensorFlow
+          description: Google推出的机器学习和人工智能开源库
+          url: https://www.tensorflow.org/?hl=zh-cn
+        - name: PyTorch
+          description: 开源机器学习框架
+          url: https://pytorch.org
+        - name: 飞桨PaddlePaddle
+          description: 开源深度学习平台
+          url: https://www.paddlepaddle.org.cn
+        - name: Apache MXNet
+          description: 免费开源的深度学习框架
+          url: https://mxnet.apache.org
+        - name: Scikit-learn
+          description: Python机器学习库
+          url: https://scikit-learn.org
+        - name: Keras
+          description: Python版本的TensorFlow深度学习API
+          url: https://keras.io
+        - name: Caffe
+          description: UC伯克利研究推出的深度学习框架
+          url: https://caffe.berkeleyvision.org
+        - name: NumPy
+          description: Python科学计算必备的包
+          url: https://numpy.org
+    - name: AI训练模型
+      sites:
+        - name: Stable Diffusion
+          description: Stability AI推出的文本到图像生成AI模型
+          url: http://beta.dreamstudio.ai
+        - name: GPT-4
+          description: OpenAI旗下最新的GPT-4模型
+          url: https://openai.com/product/gpt-4
+        - name: DALL·E 2
+          description: OpenAI旗下DALL·E 2模型
+          url: https://openai.com/product/dall-e-2
+        - name: Codex
+          description: OpenAI旗下AI代码生成训练模型
+          url: https://openai.com/blog/openai-codex
+        - name: BLOOM
+          description: HuggingFace推出的大型语言模型（LLM）
+          url: https://huggingface.co/docs/transformers/model_doc/bloom
+        - name: Imagen
+          description: Google AI文字到图像生成模型
+          url: https://imagen.research.google
+        - name: LLaMA
+          description: Meta（Facebook）推出的AI大语言模型
+          url: https://github.com/facebookresearch/llama
+        - name: Lobe
+          description: 简单免费的机器学习模型训练工具
+          url: https://www.lobe.ai
+        - name: Scale AI
+          description: AI机器学习标注训练平台
+          url: https://scale.com
+        - name: Replicate
+          description: 在线运行开源机器学习模型
+          url: https://replicate.com
+        - name: Evidently AI
+          description: 开源的机器学习模型监测和测试工具
+          url: https://www.evidentlyai.com
